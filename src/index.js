@@ -5,7 +5,7 @@ import * as serviceWorker from './serviceWorker';
 
 // build home page + style
 // build fighting system
-// build user page
+// build user page - inc cards / select current team etc.
 // build api for card images + data
 
 
