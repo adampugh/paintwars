@@ -4,6 +4,8 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 // build home page + style
+// add rain effect + css styles + story animation text
+
 // build fighting system
 // build user page - inc cards / select current team etc.
 // build api for card images + data
